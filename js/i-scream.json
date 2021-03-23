@@ -45,11 +45,25 @@
         "lemon extract",
         "lime extract",
         "lime color",
-        "heavy cream",
+        "3.5% fat milk",
         "lime zest",
-        "color-sprinkles"
+        "color-sprinkles",
+        "fine-sugar"
       ],
       "image" : "ice-cream-xtra1.svg"
+    },
+    {
+      "name" : "Vanila choco-chip",
+       "calories" : 550,
+       "type" : "Mochi-ice cream",
+       "ingredients" : [
+         "Vanila Flavour",
+         "dark chocolate chips",
+         "vanilla extract",
+         "double cream",
+         "fine-sugar"
+       ],
+       "image" : "ice-cream-xtra2.svg"
     }
   ]
 }
