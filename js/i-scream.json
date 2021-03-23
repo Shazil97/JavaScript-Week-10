@@ -36,6 +36,20 @@
         "candy sprinkles"
       ],
       "image" : "strawberry-sprinkle.svg"
+    },
+    {
+      "name" : "Lemon-Lime",
+      "calories" : 500,
+      "type" :"Gelato",
+      "ingredients" : [
+        "lemon extract",
+        "lime extract",
+        "lime color",
+        "heavy cream",
+        "lime zest",
+        "color-sprinkles"
+      ],
+      "image" : "ice-cream-xtra1.svg"
     }
   ]
 }
