@@ -23,11 +23,10 @@ header p {
 
 /* section styles */
 section {
-	display: flex;
-	justify-content: space-evenly;
-	line-height: 100%;
-	text-align: left;
-	margin-bottom: 5rem;
+		display: flex;
+		justify-content: space-evenly;
+		margin-bottom: 5rem;
+		
 }
 section article {
 	border: 2px solid black;
